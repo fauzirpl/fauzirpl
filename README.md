@@ -15,7 +15,7 @@ My name is Fauzi, A junior software engineer with experience in a software devel
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-333333?style=flat&logo=ibm)
+![Azure](https://img.shields.io/badge/-Azure%20Cloud-333333?style=flat&logo=azure)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c)
