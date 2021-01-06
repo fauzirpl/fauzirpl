@@ -1,24 +1,15 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello Gaes! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Elmo, im a responsible and receptive student who seek position in Data Analyst and Cloud Solution, creating insights through data analysis using Google Cloud Platform. Currently learning data, cloud and random stuff
+My name is Fauzi, A junior software engineer with experience in a software developer with experience knowing the software cycle. More experienced working in the requirements analysis and construction process stages.
 
-![GitHub Follow](https://img.shields.io/github/followers/elmoallistair.svg?style=social&label=Follow)
-![GitHub Star](https://img.shields.io/github/stars/elmoallistair?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+![GitHub Follow](https://img.shields.io/github/followers/fauzirpl.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/fauzirpl?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
 📫 How to reach me
 
-[![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/elmoallistair) 
-[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/elmoallistair) 
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elmoallistair)
-[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.elmoallistair@gmail.com)
-
-👨‍💻 My other profiles
-
-[![Gist](https://img.shields.io/badge/--dev?label=Gist&logo=github&style=social)](https://gist.github.com/elmoallistair)
-[![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/elmoallistair)
-[![Codewars](https://img.shields.io/badge/--dev?label=Codewars&logo=codewars&style=social)](https://www.codewars.com/users/elmoallistair)
-[![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/2d7d54b5646fe8547a05a04b5bdbcafd)
-[![Qwiklabs](https://img.shields.io/badge/--dev?label=Qwiklabs&logo=qwiklabs&style=social)](https://www.qwiklabs.com/public_profiles/3ebcb671-731f-41b0-8145-6da558567d68)
+[![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/fauzirpl)
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/fauzirpl)
+[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:fauzijuventini@gmail.com)
 
 ⚙ Tools and Technologies
 
@@ -41,5 +32,5 @@ My name is Elmo, im a responsible and receptive student who seek position in Dat
 
 <details close>
 <summary>:zap: GitHub Statistics</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=elmoallistair&show_icons=true&theme=nord" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=fauzirpl&show_icons=true&theme=nord" width="400px">
 </details>
