@@ -1,6 +1,6 @@
 ## Hello Gaes! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Fauzi, A junior software engineer with experience in a software developer with experience knowing the software cycle. More experienced working in the requirements analysis and construction process stages.
+My name is Fauzi, Junior software engineer with experience in a software developer and knowing the software cycle. More experienced working in the requirements analysis and construction process stages.
 
 ![GitHub Follow](https://img.shields.io/github/followers/fauzirpl.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/fauzirpl?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
